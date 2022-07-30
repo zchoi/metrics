@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="142" class="">
+    <defs>
+        <style/>
+    </defs>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.tracklist{display:flex;flex-direction:column;align-items:flex-start;margin-left:28px;margin-top:4px;width:100%}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.track .artist,.track .name{width:387px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600}.track .artist{font-size:12px;color:#666}.track .infos{flex-grow:1}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style/>
+    <foreignObject x="0" y="0" width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
+            <section>
+                <h2 class="field">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                        <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zM6.379 5.227A.25.25 0 006 5.442v5.117a.25.25 0 00.379.214l4.264-2.559a.25.25 0 000-.428L6.379 5.227z"/>
+                    </svg>
+                    Suggested tracks
+                </h2>
+                <div class="row fill-width">
+                    <section>
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M2.002 2.725a.75.75 0 01.797-.699C8.79 2.42 13.58 7.21 13.974 13.201a.75.75 0 11-1.497.098 10.502 10.502 0 00-9.776-9.776.75.75 0 01-.7-.798zM2 13a1 1 0 112 0 1 1 0 01-2 0zm.84-5.95a.75.75 0 00-.179 1.489c2.509.3 4.5 2.291 4.8 4.8a.75.75 0 101.49-.178A7.003 7.003 0 002.838 7.05z"/>
+                            </svg>
+                            From Apple Music
+                        </div>
+                        <div class="tracklist">
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYEBQcDAv/EAC0QAAEDAwMDAwMEAwAAAAAAAAECAwQABREGEiETMUEiYXEUFVEHMoHRQpGh/8QAGQEAAwEBAQAAAAAAAAAAAAAAAAIDAQQF/8QAHhEAAwACAQUAAAAAAAAAAAAAAAECAxESEyEiMUH/2gAMAwEAAhEDEQA/AMj+3C4J3xkLIP7kjHpPjb/VerVpdM6+RYr0oxmXSpLiynlCgO2Pc+P4qPp+eiI8pO7YPBJ4/wBU8dRH0geYbQ6tSQl1tzlCk5yMg9+QOPzyK5HkrHfH4eosUZI5fSsl/pbP6gMWawIxSVb3QQewIAwMKBJ4P/KXLrp37ff7hAYeVJRFcDaVFOzeduTn2HbPmnF0z2elqOTIeMveW5SUbUNlISQjCM4IHxwO3Ncp90NxlpkSUMBxxtPTDYwlKO6fkd+/JJ54qlZaldiEY5tib9pdj7HH0ENhO5Rzjcfb296KlaiuQQUoZUlx3J3E/wCPyKK2epa2FdOHo5I0feku5MB5QyMenAJ+acorZtr6mbhEW5IwlpLaj6QrAJOAOe/kgc+a3HVl1ZttndUlEFwKISqPITu6gI8J88fxWDytRO2ZxxUNgpf5W2VqCkg5BPTSQQnwAeexx+aLW2hMd+LGqbbZkfR/QBMqSp1Si3IbKHEIPG457nHOM8e/hPt1tMoIi2+O8tyOpSFbUFaQM5GVDjGc+ap7ozenJBU/PJkleS1uyrsD+48k54+asIOo5K34wuDCH9uVdFCAEEjgFaMgKOB/f5rJU67DVzl+RWyNJTC+64Wir1nPFFbRZtQ2d6G2zdoq3JSNyngy2G0c4KSBn8HFFVIbM905F6obEmc6YxSpwulvqJQMEqATjhI9hxVtP0lbJluMtq6W4IDgUlZd6bWMYO4nkHztA4NFFDWwT16Idtt6Zc1ceCbbIkFQC5DU30hSjgbQRnd3wO1dmtHyWY0hcVhc9wp6R+kaKgk8ggrVgE+rkgcA5xRRSTCRS8lV7ImrLFdNOxyu4JjPNuhK3GWlZ6R242+rlRA8kYPiiiinES2f/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Life Eternal</div>
+                                    <div class="artist">Ghost</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBAID/8QALhAAAgEDAwMCBAYDAAAAAAAAAQIDAAQRBRIhEzFBUWEGFCNxFjOBkaGxYsHx/8QAGQEAAwEBAQAAAAAAAAAAAAAAAgMEBQAB/8QAIBEAAgICAgIDAAAAAAAAAAAAAQIAIQMRElETIgQFMf/aAAwDAQACEQMRAD8AlpYLyO4lWKNJbScEGOTyO3Dff9qLaW4sojaYKl2GV56efU58cUh/FV+ILUSMghSRF2KmMAHP3Pmm02oTXT9awtbm4iLMge6nEall5xgZI7+38VjDFkU+42Jd5EYUY4huybZEv0gaUZYSwAqyjB7HHPPtS26shqFyPl49jFtp2E5yVGCP1P8ANJLjUNY3RSJbQOXXd013H2POe+a02XxMYoPnbiO5tpkJCDujMO3uKMYinsgnc1aidRv8PapbaNqF1bTNJcGByFU8ski8A4PbjjGaKi7v4hupLy+nmVZJrldodxnAGRkeAftRS3+vOU8iLgedRUx6r1MiBISgSUlmJzuI7fpVjokrTR3qRoZFwkqlME5GAxyPJHrUjPq9yrsh24DHgLTTRbyVJSbqKN45BkpsySBznjwO/PFbbfHBP7JA+pzDr9z1MmPJVyNoQAbRklT79/7rHqq3FxaiOQxiT80FcAYfPB96URTzxFJkJBOcH1zwapGuYLTTlWyT6jbXkMoy2cY49qNEUjTC5xPUXW+ndSKNJsBhkY7nJH3orwXVLklgFVg3+P8AvxRXgwDsweR6jS9064gBWWBl+odsoOUPPf8A5WPV930Z2dHcx9MhR6cfsRRRWnlQFCYpDcVHeWBGQfAApnpXUlkM0igxwoytwexGB/dFFS4EDPcYxqdLayPcKqAIrNt3gHGT4AoooqsqIrc//9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Windrider</div>
+                                    <div class="artist">Ensiferum</div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </div>
+            </section>
+        </div>
+        <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
+    </foreignObject>
+</svg>
